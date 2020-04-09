@@ -1,0 +1,4 @@
+rootProject.name='ASMTest'
+include ':app'
+include ':lib'
+include ':lib2'
